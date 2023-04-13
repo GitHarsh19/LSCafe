@@ -5,7 +5,7 @@ Find The Figma Link Here - https://www.figma.com/file/4bbojvkop5SQg7hOFYdmXu/Mod
 
 ## Screen Shots:
 <div align="center">
-  <img src="./public/Images/Geritch Restaurant.gif" height="450"  alt="S2">
+  <img src="./public/Images/Capture1.PNG" height="450"  alt="S2">
   
   ***
   
@@ -13,7 +13,7 @@ Find The Figma Link Here - https://www.figma.com/file/4bbojvkop5SQg7hOFYdmXu/Mod
   
   ***
   
-  <img src="./public/Images/SS2.jpg" height="450"  alt="S2">
+  <img src="./public/Images/Capture8.PNG" height="450"  alt="S2">
 </div>
 
 ### Steps to Run on Local Machine
