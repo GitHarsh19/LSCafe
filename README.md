@@ -1,8 +1,7 @@
 
 Find The Live Website Here - https://githarsh19.github.io/LScafe/
 
-## About:
-This is a Front End Project made using React.js. This project is made using an free figma design of a Restaurant Site called Gericht Restaurant. Figma Design link: ttps://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=53%3A2.
+Find The Figma Link Here - https://www.figma.com/file/4bbojvkop5SQg7hOFYdmXu/Modern-UI%2FUX%3A-LS-CAFE?node-id=0%3A21&t=cUiBbopSHNZE8EHU-1
 
 ## Screen Shots:
 <div align="center">
