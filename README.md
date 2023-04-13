@@ -1,7 +1,5 @@
-<div align="center">
-  <img align="center" src="./public/Images/logo.png" alt="Error 404" height="150">
-  <h1 align="center">Gericht Restaurant</h1>
-</div>
+
+Find The Live Website Here - https://githarsh19.github.io/LScafe/
 
 ## About:
 This is a Front End Project made using React.js. This project is made using an free figma design of a Restaurant Site called Gericht Restaurant. Figma Design link: ttps://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=53%3A2.
