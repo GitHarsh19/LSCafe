@@ -9,7 +9,7 @@ Find The Figma Link Here - https://www.figma.com/file/4bbojvkop5SQg7hOFYdmXu/Mod
   
   ***
   
-  <img src="./public/Images/SS1.jpg" height="450"  alt="S1">
+  <img src="./public/Images/Capture5.PNG" height="450"  alt="S1">
   
   ***
   
